@@ -22,15 +22,11 @@
 
 #### 🌐 **Frontend**
 
-```sh
-[github.com/phucngdev/TM-FE.git](https://github.com/phucngdev/TM-FE.git)
-```
+- [github.com/phucngdev/TM-FE.git](https://github.com/phucngdev/TM-FE.git)
 
 #### 💻 **Backend**
 
-```sh
-[github.com/phucngdev/TM-BE.git](https://github.com/phucngdev/TM-BE.git)
-```
+- [github.com/phucngdev/TM-BE.git](https://github.com/phucngdev/TM-BE.git)
 
 ### 1️⃣ **Yêu cầu**
 
