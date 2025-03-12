@@ -9,12 +9,13 @@
 - ✅ Kéo thả (Drag & Drop) để thay đổi thứ tự ưu tiên công việc.
 - ✅ Tìm kiếm, lọc và sắp xếp công việc.
 - ✅ Phân quyền người dùng.
-- ✅ Giao diện trực quan với Ant Design.
+- ✅ Nhắn tin, gọi video thời gian thực với socket và zegocloud.
+- ✅ Giao diện trực quan dễ sử dụng.
 
 ## 🔧 Công nghệ sử dụng
 
-- 🔥 **Frontend**: ReactJS, Redux Toolkit, Ant Design, DnD Kit
-- ⚡ **Backend**: Node.js, Express, MongoDB
+- 🔥 **Frontend**: ReactJS, Vite, Tailwind, Redux Toolkit, Formik, Frame Motion, Yup, Ant Design, DnD Kit
+- ⚡ **Backend**: Node.js, Express, Socket, MongoDB, Mongoose, Redis
 - 🔗 **Authentication**: JWT
 - 🛢 **Hosting**: Vercel (Frontend), Render (Backend)
 
